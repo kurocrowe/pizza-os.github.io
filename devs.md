@@ -7,6 +7,7 @@ I'm a 14 year old weeb, UX && graphic designer and software devloper. I love alg
 ## RaphielScape
 
 ## ATechnoHazard
+Picks a lot of cherries. Hopes to be a true developer someday.
 
 ## JagravNaik
 
