@@ -3,6 +3,7 @@ PizzAOSP is a custom android rom developed by alamo18, ATechnoHazard, raphielsca
 
 2) Features:
 - Optimised Base
+- Preinstalled nano gapps (because of stability and GAPPS IS A PAIN TO DOWNLOAD AND FLASH)
 - NO Bloat (We guarantee no bloat. You have the right to choose apps that you want, in gib updater. Just think of it as a clean layer of chewy cheese on the pizza)
 - OMS? (yeah every rom has this no shit lol)
 - Delicious toppings (We love toppings on pizza)
