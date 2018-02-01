@@ -11,4 +11,5 @@ Picks a lot of cherries. Hopes to be a true developer someday.
 
 ## JagravNaik
 
-## rm-rfasterisk
+## rm-rfasterisk (Sai Praneeth Reddy)
+A horny and aspiring software developer. A neophyte for the time-being.
