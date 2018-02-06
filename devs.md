@@ -10,6 +10,7 @@ I'm a 14 year old weeb, UX && graphic designer and software devloper. I love alg
 Picks a lot of cherries. Hopes to be a true developer someday.
 
 ## JagravNaik
+Random guy who happens to be a noob at Android developement.
 
 ## rm-rfasterisk (Sai Praneeth Reddy)
 A horny and aspiring software developer. A neophyte for the time-being.
