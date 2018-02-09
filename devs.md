@@ -5,6 +5,7 @@ This rom is built by #TeamSmash
 I'm a 14 year old weeb, UX && graphic designer and software devloper. I love algorithms and anime :3
 
 ## RaphielScape
+Iz onee-san. What more needs to be said? :3
 
 ## ATechnoHazard
 Picks a lot of cherries. Hopes to be a true developer someday.
