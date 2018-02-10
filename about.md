@@ -15,11 +15,10 @@ PizzAOSP is a custom android rom developed by alamo18, ATechnoHazard, raphielsca
     of chewy cheese on the pizza.
     
 - **OMS**
-    Because sometimes having a stock looking interface is terribly boring. 
+    Because sometimes having a stock looking interface is terribly boring. Check out the free themes in gib too!
     
 - **Toppings:**
-    Everyone loves toppings on a pizza, don't they? Toppings is out very own one stop application for all your feature
-    hankerings.
+    Everyone loves toppings on a pizza, don't they? Toppings are carefully thought out and handcrafted and will include only the             essential in a well organised format.
     
 - **Official builds:**
     Every device has the right to be official. As long as the device does not have major issues, the maintainer can just
@@ -30,20 +29,19 @@ PizzAOSP is a custom android rom developed by alamo18, ATechnoHazard, raphielsca
     experience? You will be recieving update once a month with security updates and bug fixes.
     
 - **Gib updater:**
-    A package manager we will be integrating into the rom for our homecooked applications.
+    A package manager we will be integrating into the rom. You can pick what you need here, with regards to the #NoBloat                     promise. It will provide you with all the packages you need and it's all free! It is also capable of recommending uninstall of           duplicate apps (like duplicate file managers, etc).
     
 - **Hibernate:**
     Hibernate by saving ram contents into a file/swap and reload it when hibernation gets over. Needs kernel support. This can help save     a ton of battery and wake speads are lightning fast too.
     
 - **Maintainance:**
-    There is no need for those weird booster apps. You can enable on-the-go fstrim and cache clearing in the maintainance app (enabled       by default, app is not installed by default, you have to install the package via gib updater). We also make sure your apps are           always zipalined. This implementation might be done via a service in the maintainance app or just a simple cron job.
+    There is no need for those weird booster apps. You can enable on-the-go fstrim and cache clearing in the maintainance app (enabled       by default, app is not installed by default, you have to install the package via gib updater). We also make sure your apps are           always zipaligned. This implementation might be done via a service in the maintainance app or just a simple cron job.
 
 ## 3) Dev features:
 - **Dynamic vendor:** (to fetch live prebuilts fresh from the daily ci builds on my server ;-;)
 
-
 ## 4) Future features:
-- Updates will be sent as patches
+- Updates will be sent as patches.
 
 #### Groups
 - General
