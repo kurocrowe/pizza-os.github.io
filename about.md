@@ -34,9 +34,16 @@ PizzAOSP is a custom android rom developed by alamo18, ATechnoHazard, raphielsca
     
 - **Hibernate:**
     Hibernate by saving ram contents into a file/swap and reload it when hibernation gets over. Needs kernel support. This can help save     a ton of battery and wake speads are lightning fast too.
+    
+- **Maintainance:**
+    There is no need for those weird booster apps. You can enable on-the-go fstrim and cache clearing in the maintainance app (enabled       by default, app is not installed by default, you have to install the package via gib updater). We also make sure your apps are           always zipalined. This implementation might be done via a service in the maintainance app or just a simple cron job.
 
 ## 3) Dev features:
-Dynamic vendor (to fetch live prebuilts fresh from the daily ci builds on my server ;-;)
+- **Dynamic vendor:** (to fetch live prebuilts fresh from the daily ci builds on my server ;-;)
+
+
+## 4) Future features:
+- Updates will be sent as patches
 
 #### Groups
 - General
