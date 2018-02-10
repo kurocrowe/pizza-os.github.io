@@ -4,8 +4,8 @@ This rom is built by #TeamSmash
 ## Morgan Lee (alamo18)
 I'm a 14 year old weeb, UX && graphic designer and software devloper. I love algorithms and anime :3
 
-## RaphielScape
-Iz onee-san. What more needs to be said? :3
+## Raphielscape
+That nH-staff grull, founder of #TeamSmash, Love memes and anime, Do Doujins tho.
 
 ## ATechnoHazard
 Picks a lot of cherries. Hopes to be a true developer someday.
