@@ -5,7 +5,7 @@ PizzAOSP is a custom android rom developed by alamo18, ATechnoHazard, raphielsca
 ## 2) Features:
 
 - **Optimised Base:** 
-    Everyone wants a stable rom, don't they?
+    Everyone wants a fast phone without lags over time, don't they?
     
 - **Preinstalled nano gapps:**
     Because of stability and GAPPS IS A PAIN TO DOWNLOAD AND FLASH
