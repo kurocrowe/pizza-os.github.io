@@ -32,9 +32,8 @@ PizzAOSP is a custom android rom developed by alamo18, ATechnoHazard, raphielsca
 - **Gib updater:**
     A package manager we will be integrating into the rom for our homecooked applications.
     
-- **Super fast boot speeds:**
-   Need to quickly boot up your device when it is shutdown? Yep, we've got it covered too.
-   ( NOTE: Not necessary but it is recommended that users have some basic knowledge about kernel tuning. )
+- **Hibernate:**
+    Hibernate by saving ram contents into a file/swap and reload it when hibernation gets over. Needs kernel support. This can help save     a ton of battery and wake speads are lightning fast too.
 
 ## 3) Dev features:
 Dynamic vendor (to fetch live prebuilts fresh from the daily ci builds on my server ;-;)
