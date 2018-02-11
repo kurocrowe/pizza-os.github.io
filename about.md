@@ -40,6 +40,8 @@ PizzAOSP is a custom android rom developed by alamo18, ATechnoHazard, raphielsca
 ## 3) Dev features:
 - **Dynamic vendor:** (to fetch live prebuilts fresh from the daily ci builds on my server ;-;)
 
+- **Custom blob:** To handle FP gestures, taps and front light sensor. (Hoo boi, we becoming OEM-like now :3) 
+
 ## 4) Future features:
 - Updates will be sent as patches.
 
