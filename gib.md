@@ -40,10 +40,26 @@ Browser
 
 Camera
 - Gcam Mod (with hdr and other shit)
+- Snapcam
+- Omni cam
+- Other ports?
 
 Audio mods
 - Arise
 - Anir audio
+
+Music
+- Phonograph
+- Retro CI
+- PizzAOSP default music
+
+Calendar
+- PizzAOSP default calendar
+- Google calander
+
+Clock
+- PizzAOSP default clock
+- Google clock
 
 Misc
 - all fdroid apps
