@@ -8,7 +8,7 @@ PizzAOSP is a custom android rom developed by alamo18, ATechnoHazard, raphielsca
     Everyone wants a fast phone without lags over time, don't they?
     
 - **Preinstalled nano gapps:**
-    Because of stability and GAPPS IS A PAIN TO DOWNLOAD AND FLASH
+    Because of stability and GAPPS IS A PAIN TO DOWNLOAD AND FLASH.
     
 - **NO Bloat:**
     We guarantee no bloat, you have the right to choose apps that you want, in gib updater. Just think of it as a clean layer
@@ -46,7 +46,7 @@ PizzAOSP is a custom android rom developed by alamo18, ATechnoHazard, raphielsca
     By default, we force aggressive doze over all apps. You can also turn data/wifi off when the screen is off. You can toggle it           aggresive to regular in the maintainance app though.
 
 ## 3) Dev features:
-- **Dynamic vendor:** (to fetch live prebuilts fresh from the daily ci builds on my server ;-;)
+- **Dynamic vendor:** To fetch fresh turbo and gapps images from my server, triggered by envsetup :P 
 
 - **Gesture/event blob:** To handle FP gestures, taps and front light sensor. (Hoo boi, we becoming OEM-like now, except this blob will be open :3) . We figured implementing native support for such gestures with the capable hardware could reduce power usage as compared to external ones.
 
