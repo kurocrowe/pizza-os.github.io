@@ -53,6 +53,9 @@ PizzAOSP is a custom android rom developed by alamo18, ATechnoHazard, raphielsca
 ## 4) Future features:
 - Updates will be sent as patches.
 
+## 5) Improvements
+- Nuke volume snapping. Why the hell would you ever want that? We'll give you percentages! (eg: 7.9% media)
+
 #### Groups
 - General
 - System
